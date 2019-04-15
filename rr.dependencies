@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "zuk-devs/android_device_zuk_msm8996-common",
+    "target_path": "device/zuk/msm8996-common",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "DD3Boh/android_kernel_zuk_msm8996",
+    "target_path": "kernel/zuk/msm8996",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "zuk-devs/proprietary_vendor_zuk",
+    "target_path": "vendor/zuk",
+    "branch": "lineage-16.0"
+  }
+]
